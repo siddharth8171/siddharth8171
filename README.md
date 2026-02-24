@@ -1,7 +1,7 @@
 ![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/header_gif.gif)
 
 <h1 align="center">Hi 👋, I'm Siddharth Sharma</h1>
-<h3 align="center">A passionate about Data Analyst from India</h3>
+<h3 align="center">A passionate about Data Analysis from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth8171&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth8171" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E commerce sales dashboard**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📝 I regularly write articles on [https://www.igi-global.com/chapter/big-data-analytics-in-behavior-analysis/368577](https://www.igi-global.com/chapter/big-data-analytics-in-behavior-analysis/368577)
 
