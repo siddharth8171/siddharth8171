@@ -1,3 +1,5 @@
+![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/971.jpg)
+
 <h1 align="center">Hi 👋, I'm Siddharth Sharma</h1>
 <h3 align="center">A passionate about Data Analyst from India</h3>
 
