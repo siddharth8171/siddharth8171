@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Siddharth Sharma</h1>
 <h3 align="center">A passionate about Data Analysis from India</h3>
 
+<img align="right" alt="Kryptora" width="400" src="https://github.com/siddharth8171/siddharth8171/blob/main/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth8171&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth8171" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@siddhar90703414" target="blank"><img src="https://img.shields.io/twitter/follow/@siddhar90703414?logo=twitter&style=for-the-badge" alt="@siddhar90703414" /></a> </p>
